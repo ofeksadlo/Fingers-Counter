@@ -1,5 +1,5 @@
 # Finger-Counter
-Simple count fingers based on opencv
+Simple fingers counter based on opencv
 
 
 # What it does
