@@ -1,4 +1,4 @@
-# Finger-Counter
+# Fingers-Counter
 Simple fingers counter based on opencv
 
 
