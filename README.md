@@ -1,7 +1,7 @@
 # Fingers-Counter
 Simple fingers counter based on opencv
 
-![](“showcase.gif”)
+![bla](“showcase.gif”)
 </br>
 </br>
 </br>
