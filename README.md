@@ -1,6 +1,10 @@
 # Fingers-Counter
 Simple fingers counter based on opencv
 
+![](“showcase.gif”)
+</br>
+</br>
+</br>
 
 Fist weights: https://gofile.io/d/KeDSLg
 
