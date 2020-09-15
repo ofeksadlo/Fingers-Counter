@@ -1,6 +1,7 @@
 # Fingers-Counter
 Simple fingers counter based on opencv
 
+Fist weights: https://gofile.io/d/KeDSLg
 
 # What it does
 You place your fist in the camera. And then stretch your fingers</br> and it counts them down.
