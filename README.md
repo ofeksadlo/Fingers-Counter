@@ -18,5 +18,5 @@ For every angle we found we add up 1 finger (Starting from 2). </br>
 
 # Disclaimer
 This method is not very good because we cant count 1 finger because there's no angles to detect.
-A better method would be creating a pollygon in the center of the ROI.</br>
-And counting contours that outside of the pollygon.
+A better method would be creating a polygon in the center of the ROI.</br>
+And counting contours that outside of the polygon.
